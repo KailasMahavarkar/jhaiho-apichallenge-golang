@@ -10,4 +10,4 @@
     
     
 ### run go
-    go run main.exe
+    go run main
